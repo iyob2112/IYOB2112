@@ -78,6 +78,11 @@
 |---------|-------------|------|
 | **Lije** | Pregnancy & child growth tracking app for Ethiopian users, with patient and doctor-facing shells, multilingual support | Flutter, Supabase |
 | **Lije Admin Panel** | Companion web dashboard for managing doctors, users, and app data | Next.js, Supabase |
+| **Restaurant Web App** | Web platform for restaurant ordering & management | Next.js, Supabase |
+| **IMS Web** | Inventory Management System for tracking stock and operations | Next.js, Supabase |
+| **E-Commerce Web** | Full online shopping platform with product & order management | Next.js, Supabase |
+| **CarZone** | Mobile app for browsing and managing car listings | Flutter |
+| **Find Ur Job** | Mobile app connecting job seekers with employers | Flutter, Supabase |
 
 *(Add repo links here once ready to share publicly.)*
 
